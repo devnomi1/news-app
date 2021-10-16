@@ -7,10 +7,10 @@ import Header from "./components/Header";
 export default class App extends Component {
 	render() {
     return (
-      <div>
-       <Header/>
-       <News/>
-    </div>
-    )
+			<div>
+				<Header />
+				<News pageSize={5} country="id" category="science" />
+			</div>
+		);
 	}
 }

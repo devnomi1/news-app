@@ -1,0 +1,136 @@
+{
+"status": "ok",
+"totalResults": 10,
+"articles": [
+{
+"source": {
+"id": "bbc-news",
+"name": "BBC News"
+},
+"author": "BBC News",
+"title": "Pablo Escobar: Colombia sterilises drug lord's hippos",
+"description": "Twenty-four of more than 80 hippos are sterilised after scientists warn of the environmental impact.",
+"url": "http://www.bbc.co.uk/news/world-latin-america-58937415",
+"urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/2519/production/_121079490_gettyimages-1228500670-1.jpg",
+"publishedAt": "2021-10-16T06:52:21.2832975Z",
+"content": "Image source, Getty Images\r\nImage caption, The hippos at Pablo Escobar's former estate are believed to be the biggest herd outside Africa\r\nA group of hippos - an unwanted legacy following the death o… [+2001 chars]"
+},
+{
+"source": {
+"id": "bbc-news",
+"name": "BBC News"
+},
+"author": "BBC News",
+"title": "Afghanistan: US offers to pay relatives of Kabul drone attack victims",
+"description": "Ten people were mistakenly killed by the US military in a drone strike on the Afghan capital.",
+"url": "http://www.bbc.co.uk/news/world-us-canada-58935260",
+"urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/105BB/production/_120330076_e18524e3-f821-4170-843d-8d7efa986df1.jpg",
+"publishedAt": "2021-10-16T04:37:21.7318803Z",
+"content": "Image caption, The aftermath of the drone strike in the Afghan capital, Kabul\r\nThe US government has offered financial compensation to the relatives of 10 people mistakenly killed by the American mil… [+3649 chars]"
+},
+{
+"source": {
+"id": "bbc-news",
+"name": "BBC News"
+},
+"author": "BBC News",
+"title": "Nasa's Lucy mission will seek out Solar System 'fossils'",
+"description": "The Lucy probe will visit swarms of asteroids called trojans to gain insights on planetary origins.",
+"url": "http://www.bbc.co.uk/news/science-environment-58927969",
+"urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/33F3/production/_121099231_oneindex.jpg",
+"publishedAt": "2021-10-16T02:22:18.3294484Z",
+"content": "Jonathan AmosScience correspondent@BBCAmoson Twitter\r\nImage caption, Artwork: Lucy is just one in a series of Nasa missions to the Solar System's asteroids\r\nA spacecraft will launch in the coming hou… [+5943 chars]"
+},
+{
+"source": {
+"id": "bbc-news",
+"name": "BBC News"
+},
+"author": "BBC News",
+"title": "Fleeing the desert's shifting sands",
+"description": "Rising temperatures and desertification are forcing many Mauritanians to leave their ancestral homes in search of a better life.",
+"url": "http://www.bbc.co.uk/news/science-environment-58925616",
+"urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/182AD/production/_121098989_p09ysrpd.jpg",
+"publishedAt": "2021-10-16T01:07:25.9425925Z",
+"content": "In northern Mauritania, people are seeing first-hand the impact of climate change. \r\nRising temperatures and desertification are wiping out communities and as the Life at 50C series has discovered, m… [+78 chars]"
+},
+{
+"source": {
+"id": "bbc-news",
+"name": "BBC News"
+},
+"author": "BBC News",
+"title": "Texas abortion law: Biden administration to request block on abortion ban",
+"description": "The president's administration will ask the Supreme Court to block a restrictive Texas abortion law.",
+"url": "http://www.bbc.co.uk/news/world-us-canada-58935257",
+"urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/56E0/production/_121104222_mediaitem121104218.jpg",
+"publishedAt": "2021-10-16T00:07:19.474568Z",
+"content": "Image caption, The move is the latest stage of a national battle over reproductive rights\r\nUS President Joe Biden's administration has said it will ask the Supreme Court to block a restrictive Texas … [+2042 chars]"
+},
+{
+"source": {
+"id": "bbc-news",
+"name": "BBC News"
+},
+"author": "BBC News",
+"title": "Sir David Amess: Fun, friendly and always outspoken",
+"description": "The Tory MP was a backbencher of the old school who fought for the causes he cared about.",
+"url": "http://www.bbc.co.uk/news/uk-politics-58928140",
+"urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/50DB/production/_121099602_davidamesspamedia.jpg",
+"publishedAt": "2021-10-15T20:37:20.4419127Z",
+"content": "By James Landale &amp; Brian WheelerBBC News\r\nSir David Amess was one of Parliament's characters: fun, friendly, unconventional and outspoken.\r\nHis broad grin and boyish enthusiasm were fixtures in t… [+4194 chars]"
+},
+{
+"source": {
+"id": "bbc-news",
+"name": "BBC News"
+},
+"author": "BBC News",
+"title": "Sir Elton John scores first number one in 16 years",
+"description": "The rock star topped the UK singles chart with Cold Heart, with the help of collaborator Dua Lipa.",
+"url": "http://www.bbc.co.uk/news/entertainment-arts-58933279",
+"urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/7030/production/_121102782_eltonjohnofficialnumber1singleaward-coldheartpnauremix.jpg",
+"publishedAt": "2021-10-15T20:22:27.1201034Z",
+"content": "Image source, Official Charts Company\r\nImage caption, Sir Elton John has now had eight number one singles\r\nSir Elton John has topped the UK singles chart for the first time in 16 years with a little … [+2788 chars]"
+},
+{
+"source": {
+"id": "bbc-news",
+"name": "BBC News"
+},
+"author": "BBC News",
+"title": "Apple takes down Koran app in China",
+"description": "The popular Islamic app was removed in the country, after an official request.",
+"url": "http://www.bbc.co.uk/news/technology-58921230",
+"urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/15CA1/production/_121094298_gettyimages-992536972.jpg",
+"publishedAt": "2021-10-15T16:37:22.2319489Z",
+"content": "By James ClaytonNorth America technology reporter\r\nImage source, Getty Images\r\nApple has taken down one of the world's most popular Koran apps in China, following a request from officials.\r\nQuran Maj… [+3395 chars]"
+},
+{
+"source": {
+"id": "bbc-news",
+"name": "BBC News"
+},
+"author": "BBC News",
+"title": "Cambridge University's Jesus College bronze cockerel to be returned",
+"description": "The Benin bronze, known as an \"okukor\", was given to Jesus College in Cambridge in 1905.",
+"url": "http://www.bbc.co.uk/news/uk-england-cambridgeshire-58927240",
+"urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/38E9/production/_121096541_ba98aac9-3349-4290-be1c-d59c378509a5.jpg",
+"publishedAt": "2021-10-15T15:37:22.4964993Z",
+"content": "Image source, Chris Loades\r\nImage caption, The Benin bronze cockerel is to be returned to Nigeria later this month\r\nA bronze cockerel kept at Cambridge University that had been looted in a British ra… [+2823 chars]"
+},
+{
+"source": {
+"id": "bbc-news",
+"name": "BBC News"
+},
+"author": "BBC News",
+"title": "Covid: US to lift travel ban for fully jabbed on 8 November",
+"description": "Fully vaccinated travellers will be allowed to enter the US for the first time since March 2020.",
+"url": "http://www.bbc.co.uk/news/world-us-canada-58929441",
+"urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/0E83/production/_115651730_breaking-promo-976.png",
+"publishedAt": "2021-10-15T13:37:21.5704669Z",
+"content": "The current rules bar entry to most non-US citizens who have been in the UK and a number of other European countries, China, India, South Africa, Iran and Brazil within the last 14 days."
+}
+]
+}

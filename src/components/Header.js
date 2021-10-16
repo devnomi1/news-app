@@ -4,7 +4,7 @@ export class Header extends Component {
 	render() {
 		return (
 			<div>
-				<nav className="navbar navbar-expand-lg navbar-light bg-light">
+				<nav className="navbar navbar-expand-lg navbar-dark bg-dark">
 					<div className="container-fluid">
 						<a className="navbar-brand" href="/">
 							News Monkey
@@ -33,6 +33,42 @@ export class Header extends Component {
 								<li className="nav-item">
 									<a className="nav-link" href="/about">
 										About
+									</a>
+								</li>
+
+								<li className="nav-item">
+									<a className="nav-link" href="/business">
+										business
+									</a>
+								</li>
+								<li className="nav-item">
+									<a className="nav-link" href="/entertainment">
+										entertainment
+									</a>
+								</li>
+								<li className="nav-item">
+									<a className="nav-link" href="/general">
+										general
+									</a>
+								</li>
+								<li className="nav-item">
+									<a className="nav-link" href="/health">
+										health
+									</a>
+								</li>
+								<li className="nav-item">
+									<a className="nav-link" href="/science">
+										science
+									</a>
+								</li>
+								<li className="nav-item">
+									<a className="nav-link" href="/sports">
+										sports
+									</a>
+								</li>
+								<li>
+									<a className="nav-link" href="/technology">
+										technology
 									</a>
 								</li>
 							</ul>
