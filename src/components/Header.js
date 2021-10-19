@@ -1,11 +1,11 @@
-import React, { Component } from "react";
+import React from "react";
 import { Link } from "react-router-dom";
 
-export class Header extends Component {
-	render() {
+const Header = ()=> {
+	
 		return (
 			<div>
-				<nav className="navbar navbar-expand-lg navbar-dark bg-dark">
+				<nav className="navbar navbar-expand-lg navbar-dark bg-dark fixed-top">
 					<div className="container-fluid">
 						<Link className="navbar-brand" to="/">
 							News Monkey
@@ -42,11 +42,7 @@ export class Header extends Component {
 										Entertainment
 									</Link>
 								</li>
-								{/* <li className="nav-item">
-									<Link className="nav-link" to="/general">
-										General
-									</Link>
-								</li> */}
+								
 								<li className="nav-item">
 									<Link className="nav-link" to="/health">
 										Health
@@ -73,7 +69,7 @@ export class Header extends Component {
 				</nav>
 			</div>
 		);
-	}
+	
 }
 
 export default Header;
